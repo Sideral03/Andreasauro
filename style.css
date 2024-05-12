@@ -1,0 +1,12 @@
+body {
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+#board {
+  background-image: url(/img/bandiera\ dell\ albania.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-bottom: 1px solid black;
+}
